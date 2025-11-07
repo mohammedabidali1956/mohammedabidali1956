@@ -1,9 +1,9 @@
 <h3 align="center">Welcome to My GitHub Universe 👋</h3>
 
-<h1 align="center">I'm Abid Ali</h1>
+<h1 align="center">I'm Mohammed Abid Ali</h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=AI+Engineer+in+Progress;Building+Agentic+Systems+with+Python;Crafting+Useful+Tech%2C+Not+Noise;Generative+AI+%7C+Data+Science+%7C+Machine+Logic;Turning+Curiosity+into+Execution" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Forged+in+Errors%2C+Fueled+by+Curiosity" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 * IT Engineering Student specializing in **AI Engineering**
 * Exploring **Python**, **Data Science**, **Agentic AI**, and **Generative Models**
 * Building projects that are **useful**, **clean**, and **scalable**
-* Obsessed with **systems thinking**, smart architectures, and real-world solutions
+* Obsessed with **systems thinking**, smart architectures, and real-world solutions**
 * Documenting a journey from logic → execution → real impact
 * Believer in consistency, craft, and lifelong learning
 
@@ -32,7 +32,7 @@
 ### My Toolbox <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,tensorflow,sklearn,js,ts,react,nextjs,nodejs,html,css,tailwind,mysql,sqlite,git,github,linux,vscode,figma,ai"/>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,tailwind,mysql,git,github,linux,vscode,ai"/>
 </p>
 
 ---
@@ -44,12 +44,12 @@
 | **SmartTask Universe** | AI-Powered Productivity Suite (Frontend + Agent logic) |
 | **AI Portfolio** | My animated personal portfolio (WIP) |
 | **ML Experiments Hub** | Clean implementations of ML and DS concepts |
-| **C Notes & Experiments** | Pointer logic, memory mapping, and core C fundamentals |
+| **Python Notes & Experiments** | Pointer logic, memory mapping, and core Python fundamentals |
 
 ---
 
 ## Fun Fact 💫
-🧠 I debug better at 2 AM than in broad daylight.
+🧠 I break things on purpose just to understand them better.
 
 ---
 
