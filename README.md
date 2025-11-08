@@ -95,6 +95,8 @@
 
 </p>
 
+[![An image of @mohammedabidali1956's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohammedabidali1956)](https://holopin.io/@mohammedabidali1956)
+
 ---
 
 ## Signature 🟦
